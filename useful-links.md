@@ -1,4 +1,4 @@
-# Useful Links
+# Useful Links/Resources
 
 A curated collection of valuable FPV resources, tutorials, and educational content.
 
@@ -21,3 +21,6 @@ Ultimate guide to FPV antennas covering antenna types (monopole, dipole, cloverl
 ### [FPV Antenna SWR Plots](https://oscarliang.com/fpv-antenna-swr/#Maple-Leaf-Patch-85dBi)
 Extensive collection of SWR (Standing Wave Ratio) measurements for popular FPV antennas. Helps you identify the best frequency/channel for optimal performance with your specific antenna. Features tested data on dozens of antennas including Foxeer Lollipop series, TrueRC Singularity, RushFPV Cherry, and many more. Invaluable resource for fine-tuning your video link quality.
 
+## Resources 
+
+### ![FPV 5.8GHZ bands](resources/58ghz_freq.png)
